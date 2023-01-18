@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "playwright": "^1.29.2",
+    "xlsx": "^0.18.5"
+  }
+}
